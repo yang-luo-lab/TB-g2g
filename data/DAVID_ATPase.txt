@@ -1,0 +1,12 @@
+	KW-0547~Nucleotide-binding	GO:0005524~ATP binding	KW-0067~ATP-binding	KW-0479~Metal-binding	KW-0460~Magnesium	ACT_SITE:4-aspartylphosphate intermediate	IPR008250:P-type ATPase, A  domain	IPR023298:P-type ATPase,  transmembrane domain	IPR023214:HAD-like domain	KW-1278~Translocase	METAL:Magnesium	IPR001757:Cation-transporting P-type ATPase	IPR023299:P-type ATPase, cytoplasmic domain N	IPR018303:P-type ATPase, phosphorylation site	NP_BIND:ATP	
+potassium-transporting ATPase subunit B(kdpB)	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+manganese/zinc-exporting P-type ATPase(ctpC)	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+cation-transporter ATPase I(ctpI)	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+ESX-1 secretion system protein EccCb(eccCb1)	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	
+transcription-repair coupling factor(mfd)	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	
+glutamate--cysteine ligase(gshA)	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+long-chain-fatty-acid--AMP ligase FadD30(fadD30)	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+deoxycytidine triphosphate deaminase(dcd)	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+oxygenase(Rv1937)	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	
+transferase(Rv3729)	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	
+PE-PGRS family protein PE_PGRS11(PE_PGRS11)	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
