@@ -1,6 +1,0 @@
-	KW-0560~Oxidoreductase	KW-0274~FAD	GO:0050660~flavin adenine dinucleotide binding	IPR009075:Acyl-CoA dehydrogenase/oxidase C-terminal	IPR009100:Acyl-CoA dehydrogenase/oxidase	IPR006091:Acyl-CoA oxidase/dehydrogenase, central domain	
-acyl-CoA dehydrogenase FadE35(fadE35)	1	1	1	1	1	1	
-acyl-CoA dehydrogenase FadE34(fadE34)	1	1	1	1	1	1	
-acyl-CoA dehydrogenase FadE7(fadE7)	1	1	1	1	1	1	
-thioredoxin reductase(trxB2)	1	1	1	0	0	0	
-D-3-phosphoglycerate dehydrogenase(serA1)	1	0	0	0	0	0	
