@@ -1,0 +1,4 @@
+study beta se pval
+original 2.30836 0.369931 7.91971e-08
+with_MtpPC 2.32254 0.396461 1.16525e-07
+with_year_of_diagnose 2.33887 0.370556 6.4934e-08
