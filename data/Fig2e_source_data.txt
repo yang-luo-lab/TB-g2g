@@ -1,0 +1,15 @@
+Cluster	Term	Gene.ratio	FDR
+Cluster 1	IL-4 and IL-13 signaling	0.055172414	0.004316344
+Cluster 1	Signaling by Interleukins	0.103448276	0.004316344
+Cluster 1	IL-10 signaling	0.034482759	0.043497182
+Cluster 1	Zinc homeostasis	0.04137931	0.004314051
+Cluster 2	Cytosolic DNA-sensing pathway	0.028880866	0.001409622
+Cluster 2	Interferon alpha/beta signaling	0.111913357	2.9e-33
+Cluster 2	Interferon gamma signaling	0.079422383	7.43e-17
+Cluster 2	MHC-I antigen presentation	0.064981949	0.006758625
+Cluster 3	IL-10 signaling	0.041044776	4.68e-07
+Cluster 3	Signaling by Interleukins	0.097014925	5.03e-06
+Cluster 3	Cytosolic DNA-sensing pathway	0.029850746	0.019350648
+Cluster 4	Metabolism	0.209205021	0.003237069
+Cluster 4	Disulfide bond	0.242677824	0.022448014
+Cluster 5	Ribosome	0.75	1.83e-32
