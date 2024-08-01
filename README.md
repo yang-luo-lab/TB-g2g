@@ -7,10 +7,6 @@ Infectious disease is the result of interactions between host and pathogen and c
 # Important Links
 A preprint version of the manuscript can be found here https://www.medrxiv.org/content/10.1101/2022.02.07.22270622v1
 
-Yang Luo, Chuan-Chin Huang, Qingyun Liu, Nicole Howard, Xinyi Li, Junhao Zhu, Tiffany Amariuta, Samira Asgari, Kazuyoshi Ishigaki, Roger Calderon, D. Branch Moody, Leonid Lecca, Sarah M Fortune, Megan B Murray, Soumya Raychaudhuri
-
-medRxiv 2022.02.07.22270622; doi: https://doi.org/10.1101/2022.02.07.22270622
-
 # Organization
 For all data used to preroduce figures in the paper, please see [data/](data/)
 
